@@ -50,7 +50,10 @@ table {
 /*akhir css reset*/
 
 /*awal style*/
-
+body {
+ background-image: url(img/body.jpg);
+ background-size: contain;
+}
 .container {
   width : 360px;
   background-color : lightskyblue;
