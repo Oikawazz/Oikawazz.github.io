@@ -76,7 +76,7 @@ body {
   color : cyan;
 }
 .judul-gallery {
-  text-align : left;
+  text-align : center;
   margin-left: 15px;
   padding-top : 20px;
   padding-bottom : 20px;
@@ -84,6 +84,7 @@ body {
   font-weight: bold;
   font-size : 25px;
   color: navy;
+  padding-right: 20px;
 }
 .navbar {
   text-align: center;
